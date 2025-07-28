@@ -26,5 +26,6 @@ This game runs in the *console/terminal* and is a great beginner-friendly Java p
 4. ---
 
 ## 📂 Project Links
-🔗 GitHub Code – https://1drv.ms/u/c/8aa2339124dd36e7/EXz7oIBNdjJBjIiXrhuhElwBIS_y8TXsHQF4GoGZFBjjOw?e=zGHQRc
-🔗 Download Game – PASTE-YOUR-ONEDRIVE-LINK-HERE
+🔗 GitHub Code –  https://github.com/indu282004/TicTacToe.git
+
+🔗 Download Game – https://1drv.ms/u/c/8aa2339124dd36e7/EXz7oIBNdjJBjIiXrhuhElwBIS_y8TXsHQF4GoGZFBjjOw?e=zGHQRc
