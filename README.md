@@ -20,6 +20,11 @@ This game runs in the *console/terminal* and is a great beginner-friendly Java p
 3. Right-click on SimpleTicTacToe.java → *Run As → Java Application*.
 
 ### 🖥 Option 2 – Download JAR & Run
-1. Download the game: [📥 Click Here](PASTE-YOUR-ONEDRIVE-LINK-HERE)  
+1. Download the game: [📥 Click Here](https://1drv.ms/u/c/8aa2339124dd36e7/EXz7oIBNdjJBjIiXrhuhElwBIS_y8TXsHQF4GoGZFBjjOw?e=zGHQRc)
 2. Open Command Prompt where the file is downloaded.  
 3. Run:java -jar SimpleTicTacToe.jar
+4. ---
+
+## 📂 Project Links
+🔗 GitHub Code – https://1drv.ms/u/c/8aa2339124dd36e7/EXz7oIBNdjJBjIiXrhuhElwBIS_y8TXsHQF4GoGZFBjjOw?e=zGHQRc
+🔗 Download Game – PASTE-YOUR-ONEDRIVE-LINK-HERE
